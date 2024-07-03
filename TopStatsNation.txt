@@ -1,0 +1,10 @@
+Argentina,Lionel Messi,185,Lionel Messi,94,Emier Martinez,25
+France,Platini,200,Griezmann,76,Lloris,100
+Brazil,Pele,89,Neymar Jr,110,Alisson,19
+Belgium,Romelu Lukaku,101,Kevin De Bryune,76,Thibaut Courtois,49
+England,Harry Kane,77,Wayne Rooney,56,Joe Hart,77
+Netherlands,Marco Van Basten,112,Arjen Robben,56,Cilessen,22
+Croatia,Mario Mandzukic,43,Luka Modric,55,Livakovic,39
+Italy,Dino Zoff,186,Andrea Pirlo,76,Gianluigi Buffon,110
+Portugal,Cristiano Ronaldo,225,Luis Figo,110,Rui Patricio,89
+Spain,David Villa,102,Andres Iniesta,56,Iker Casillas,100
